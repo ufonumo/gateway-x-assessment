@@ -8,7 +8,7 @@ body {
   display: flex;
   height: 100vh;
   font-size: 14px;
-  background: #2c2f36;
+  background: #252b28;
   color: white;
   padding: 30px;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 #canvas {
-  background: #212328;
+  background: #142963;
   border-radius: 5px;
 }
 
@@ -36,7 +36,7 @@ body {
   flex-direction: column;
 }
 #controls i {
-  background: #4881b8;
+  background: #1e71be;
   padding: 15px;
   display: flex;
   align-items: center;
